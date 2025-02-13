@@ -1,0 +1,37 @@
+{
+    "hotels": [
+        {
+            "id": 1,
+            "name": "Espinas Palace",
+            "description": "Espinas Hotel offers luxury accommodations in the heart of Tehran ...",
+            "location": {
+                "long": 51.35633,
+                "lat": 35.79290
+            },
+            "stars": 5,
+            "image": "hotel1.webp"
+        },
+        {
+            "id": 2,
+            "name": "Homa",
+            "description": "Tehran Homa Hotel, one of the most prestigious five-star hotels in the capital ...",
+            "location": {
+                "long": 51.40511,
+                "lat": 35.76186
+            },
+            "stars": 4.94,
+            "image": "hotel2.webp"
+        },
+        {
+            "id": 3,
+            "name": "Parsian Esteghlal",
+            "description": "Parsian Esteghlal Hotel offers luxury accommodations in the heart of Tehran ...",
+            "location": {
+                "long": 51.41298,
+                "lat": 35.79064
+            },
+            "stars": 4.35,
+            "image": "hotel3.webp"
+        }
+    ]
+}
